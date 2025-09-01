@@ -1,0 +1,11 @@
+# Core app
+streamlit
+pandas
+yfinance
+plotly
+matplotlib
+
+# Optional helpers
+numpy
+requests
+beautifulsoup4
